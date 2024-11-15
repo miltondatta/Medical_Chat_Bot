@@ -1,5 +1,5 @@
 ctransformers==0.2.5
-sentence-transformers==2.2.2   ## For Embeding model
+sentence-transformers   ## For Embeding model
 pinecone-client==2.2.4
 langchain==0.2.14
 langchain-community==0.2.12
@@ -7,4 +7,4 @@ langchain-groq===0.1.9
 flask
 pypdf
 python-dotenv
--e .
+#-e .

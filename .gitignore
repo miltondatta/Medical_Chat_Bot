@@ -1,4 +1,4 @@
-medibot
-python=python3.10.0
+mbot
+python=3.10.0
 .env
 data
