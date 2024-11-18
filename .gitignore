@@ -3,4 +3,4 @@ python=3.10.0
 .env
 data
 model
-chromadb/medicalstore
+chromadb
